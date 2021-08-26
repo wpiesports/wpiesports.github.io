@@ -1,1 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WPI Esports</title><link>https://wpiesports.github.io/</link><description>Recent content on WPI Esports</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 25 Aug 2021 13:06:06 -0400</lastBuildDate><atom:link href="https://wpiesports.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://wpiesports.github.io/about/</link><pubDate>Wed, 25 Aug 2021 13:06:06 -0400</pubDate><guid>https://wpiesports.github.io/about/</guid><description>Coming soon, hopefully!</description></item><item><title>Competitive Teams</title><link>https://wpiesports.github.io/teams/</link><pubDate>Wed, 25 Aug 2021 13:06:06 -0400</pubDate><guid>https://wpiesports.github.io/teams/</guid><description>Coming soon, very soon!</description></item><item><title>Staff</title><link>https://wpiesports.github.io/staff/</link><pubDate>Wed, 25 Aug 2021 13:06:06 -0400</pubDate><guid>https://wpiesports.github.io/staff/</guid><description>Coming soon!</description></item><item><title>Upcoming Events</title><link>https://wpiesports.github.io/events/</link><pubDate>Wed, 25 Aug 2021 13:06:06 -0400</pubDate><guid>https://wpiesports.github.io/events/</guid><description>Coming soon!</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>WPI Esports</title>
+    <link>https://wpiesports.github.io/</link>
+    <description>Recent content on WPI Esports</description>
+    <image>
+      <url>https://wpiesports.github.io/logo.png</url>
+      <link>https://wpiesports.github.io/logo.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://wpiesports.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://wpiesports.github.io/about/</link>
+      <pubDate>Wed, 25 Aug 2021 13:06:06 -0400</pubDate>
+      
+      <guid>https://wpiesports.github.io/about/</guid>
+      <description>Coming soon, hopefully!</description>
+    </item>
+    
+    <item>
+      <title>Competitive Teams</title>
+      <link>https://wpiesports.github.io/teams/</link>
+      <pubDate>Wed, 25 Aug 2021 13:06:06 -0400</pubDate>
+      
+      <guid>https://wpiesports.github.io/teams/</guid>
+      <description>Coming soon, very soon!</description>
+    </item>
+    
+    <item>
+      <title>Staff</title>
+      <link>https://wpiesports.github.io/staff/</link>
+      <pubDate>Wed, 25 Aug 2021 13:06:06 -0400</pubDate>
+      
+      <guid>https://wpiesports.github.io/staff/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+    <item>
+      <title>Upcoming Events</title>
+      <link>https://wpiesports.github.io/events/</link>
+      <pubDate>Wed, 25 Aug 2021 13:06:06 -0400</pubDate>
+      
+      <guid>https://wpiesports.github.io/events/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+  </channel>
+</rss>
