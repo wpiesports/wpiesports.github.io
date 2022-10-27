@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>WPI Esports</title>
+    <link>https://wpiesports.github.io/</link>
+    <description>Recent content on WPI Esports</description>
+    <image>
+      <url>https://wpiesports.github.io/logo.png</url>
+      <link>https://wpiesports.github.io/logo.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://wpiesports.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://wpiesports.github.io/about/</link>
+      <pubDate>Wed, 26 Oct 2022 13:06:06 -0400</pubDate>
+      
+      <guid>https://wpiesports.github.io/about/</guid>
+      <description>Esports at WPI WPI has been competing in esports for over 6 years in a wide range of titles. With over 150 members participating on teams, the club supports a wide range of competition and skill levels. We also find opportunities for members to get involved in other areas of esports like broadcasting, coaching, or managing teams. We&amp;rsquo;re always looking to build on our teams and the opportunities we provide to WPI students.</description>
+    </item>
+    
+    <item>
+      <title>Esports Lab</title>
+      <link>https://wpiesports.github.io/esports_lab/</link>
+      <pubDate>Wed, 26 Oct 2022 13:06:06 -0400</pubDate>
+      
+      <guid>https://wpiesports.github.io/esports_lab/</guid>
+      <description>The Esports Lab has 12 fully equipped PCs open for members of the WPI community to use.</description>
+    </item>
+    
+    <item>
+      <title>Staff</title>
+      <link>https://wpiesports.github.io/staff/</link>
+      <pubDate>Wed, 26 Oct 2022 13:06:06 -0400</pubDate>
+      
+      <guid>https://wpiesports.github.io/staff/</guid>
+      <description>Club Executives          President Liam R. (PULGASARI)   Vice President Jason O. (uginghostdragon)   Secretary Connor C. (DaCowGoMoo)   Treasurer Josh K. (Kesstrel)    Competitive Managers          Apex Legends TBD   Dota 2 Dimitri (Dimitri)   Counter-Strike: Global Offensive Troy (Splatt)   Fortnite Amun (Rad)   Hearthstone Vijay (Schnellaffe)   League of Legends Jason O.</description>
+    </item>
+    
+    <item>
+      <title>Teams</title>
+      <link>https://wpiesports.github.io/teams/</link>
+      <pubDate>Wed, 26 Oct 2022 13:06:06 -0400</pubDate>
+      
+      <guid>https://wpiesports.github.io/teams/</guid>
+      <description>Apex Legends  TBD
+ Dota 2  Dota Crimson
+ Counter-Strike: Global Offensive  CS:GO Crimson
+ Fortnite  TBD
+ Hearthstone  TBD
+ League of Legends   osu!   Overwatch   Rainbow 6 Siege   Rocket League   Valorant   </description>
+    </item>
+    
+    <item>
+      <title>Upcoming Events</title>
+      <link>https://wpiesports.github.io/events/</link>
+      <pubDate>Wed, 25 Aug 2021 13:06:06 -0400</pubDate>
+      
+      <guid>https://wpiesports.github.io/events/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+  </channel>
+</rss>
