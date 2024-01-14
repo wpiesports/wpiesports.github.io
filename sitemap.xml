@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wpiesports.github.io/events/</loc>
+    <lastmod>2024-01-14T13:06:06-04:00</lastmod>
+  </url><url>
     <loc>https://wpiesports.github.io/about/</loc>
     <lastmod>2022-10-26T13:06:06-04:00</lastmod>
   </url><url>
@@ -13,9 +16,6 @@
   </url><url>
     <loc>https://wpiesports.github.io/teams/</loc>
     <lastmod>2022-10-26T13:06:06-04:00</lastmod>
-  </url><url>
-    <loc>https://wpiesports.github.io/events/</loc>
-    <lastmod>2021-08-25T13:06:06-04:00</lastmod>
   </url><url>
     <loc>https://wpiesports.github.io/categories/</loc>
   </url><url>
